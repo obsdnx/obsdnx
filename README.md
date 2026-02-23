@@ -1,6 +1,6 @@
 # obsidian 🌸
 
-CS Masters student specialising in systems security, low-level programming, and applied ML.  
+CS Masters student specialising in systems security
 I like to build network tools in C, neural networks in Rust, and compilers from scratch.
 
 ---

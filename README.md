@@ -1,8 +1,6 @@
 # obsidian 🌸
 
-CS Masters student specialising in systems security
-
-
+CS Masters student 
 ---
 
 ### 🔨 Featured Projects

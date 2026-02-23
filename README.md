@@ -27,12 +27,6 @@ I like to build network tools in C, neural networks in Rust, and compilers from 
 
 ---
 
-### 📈 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obsdnx&show_icons=true&hide_title=true&theme=tokyonight)
-
----
-
 ### 📫 Contact
 
 [systemsobsidian@gmail.com](mailto:systemsobsidian@gmail.com)

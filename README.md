@@ -16,5 +16,8 @@ I'm just a girl with a strong focus on **C++**, **Python**, **JavaScript**, and 
 ### 📫 Reach me at:
 systemsobsidian@gmail.com
 
+### Follow my substack <3 
+@obsdnx
+
 ### 🚀 Let's Connect!
 Feel free to check out my repositories, open issues, or contribute to my projects!

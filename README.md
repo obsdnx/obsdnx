@@ -1,22 +1,23 @@
+# hi there !
 
-# Hi there, I'm John Doe 👋
+I'm just a girl with a strong focus on **C++**, **Python**, **JavaScript**, and **Rust**. I’m always exploring new technologies and aiming to improve my skills in **machine learning**, **neural networks**, and **cybersecurity**.
 
-I'm a software developer with a passion for open-source, web development, and Python. 
+### 🔧 My Skills:
+- **Languages**: C++, Python, JavaScript, Rust
+- **Machine Learning**: TensorFlow, Neural Networks
+- **Cybersecurity**: CompTIA+, CEH (Certified Ethical Hacker)
+- **Web Development**: Interested in building secure websites for businesses and fixing broken ones with vibes 🌐🔒
 
-### 🌍 I'm currently working on:
-- Open-source projects
-- Contributing to the developer community
-
-### 🔧 Technologies & Tools:
-- Python, JavaScript, React
-- Git, Docker, AWS
+### 🌱 Currently Exploring:
+- Machine Learning algorithms and models
+- Neural Network architectures
+- Building secure, scalable websites for businesses
 
 ### 📈 GitHub Stats:
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&hide_title=true)
+(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
 
 ### 📫 Reach me at:
-- [LinkedIn](https://www.linkedin.com/in/johndoe)
-- [Twitter](https://twitter.com/johndoe)
+systemsobsidian@gmail.com
 
 ### 🚀 Let's Connect!
-Feel free to check out my repositories and open issues or pull requests!
+Feel free to check out my repositories, open issues, or contribute to my projects!

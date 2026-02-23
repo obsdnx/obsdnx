@@ -1,4 +1,4 @@
-# hi there !
+# hi there 🌸 !
 
 I'm just a girl with a strong focus on **C++**, **Python**, **JavaScript**, and **Rust**. I’m always exploring new technologies and aiming to improve my skills in **machine learning**, **neural networks**, and **cybersecurity**.
 

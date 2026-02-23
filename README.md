@@ -13,9 +13,6 @@ I'm just a girl with a strong focus on **C++**, **Python**, **JavaScript**, and 
 - Neural Network architectures
 - Building secure, scalable websites for businesses
 
-### 📈 GitHub Stats:
-(https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
-
 ### 📫 Reach me at:
 systemsobsidian@gmail.com
 

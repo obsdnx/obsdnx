@@ -3,6 +3,8 @@
 Warwick CS Masters student 
 ---
 
+Systems-focused CS student at Warwick. I build network tooling in C, neural nets in Rust, ML on embedded sensor data. Interested in Security and Operating Systems. 
+
 ### 🔨 Featured Projects
 
 | Project | Description | Stack |
@@ -23,6 +25,10 @@ Warwick CS Masters student
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
+
+### Hobbies 
+
+TryHackMe Labs | Freelancing Projects
 
 ### 📫 Contact
 

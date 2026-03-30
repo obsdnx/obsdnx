@@ -1,6 +1,6 @@
 # obsidian 🌸
 
-CS Masters student 
+Warwick CS Masters student 
 ---
 
 ### 🔨 Featured Projects

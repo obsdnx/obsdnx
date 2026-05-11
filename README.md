@@ -1,35 +1,39 @@
-# obsidian 🌸
+# obsidian
+Systems & Security @ Warwick CS Masters
 
-Warwick CS Masters student 
 ---
 
-Systems-focused CS student at Warwick. I build network tooling in C and stuff. Interested in Security and Operating Systems. 
+Low-level systems builder focused on security tooling and network programming.  
+I like understanding how things work under the hood and building tools that do something useful with that knowledge.
 
-### 🔨 Featured Projects
+---
+
+### 🔨 Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | [packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System) | libpcap-based packet capture with single-threaded IDS logic for anomaly detection | C |
-| [rust_nn](https://github.com/obsdnx/rust_nn) | Feedforward neural network with backpropagation, built from scratch in Rust to understand ML fundamentals at the systems level | Rust |
 | [c-port-scanner](https://github.com/obsdnx/c-port-scanner) | TCP port scanner using raw socket() and connect() syscalls | C |
 | [mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project) | Joint object detection from mmWave radar point clouds using CNN + RNN fusion | Python |
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠 Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ---
 
-### Hobbies 
+### Interests
 
-TryHackMe Labs | Freelancing Projects
+**Security** — detection tools, network analysis, attack surfaces  
+**Low-level systems** — kernel interfaces, raw sockets, packet internals  
+**Humanitarian tech** — exploring how security & systems can support social good  
+
+**Learning** — CTFs, TryHackMe, freelance projects
+
+---
 
 ### 📫 Contact
-
-[systemsobsidian@gmail.com](mailto:systemsobsidian@gmail.com)

@@ -1,6 +1,6 @@
 # Hi, I'm obsdnx 👋
 
-### Systems & Security @ Warwick CS Masters
+### Systems & Security @  CS Masters
 Low-level systems builder focused on security tooling, network programming, and hardware internals. I prefer skipping high-level abstractions to understand how things work under the hood, building tools from first principles.
 
 ---
@@ -44,4 +44,4 @@ Low-level systems builder focused on security tooling, network programming, and 
 ## 📫 Connect with Me
 
 *   **Learning:** Active in CTFs, hardware exploitation research, and freelance technical projects.
-*   **Contact:** [Your Email Here] | [Your LinkedIn Here]
+

@@ -1,39 +1,47 @@
-# obsidian
-Systems & Security @ Warwick CS Masters
+# Hi, I'm obsdnx 👋
+
+### Systems & Security @ Warwick CS Masters
+Low-level systems builder focused on security tooling, network programming, and hardware internals. I prefer skipping high-level abstractions to understand how things work under the hood, building tools from first principles.
 
 ---
 
-Low-level systems builder focused on security tooling and network programming.  
-I like understanding how things work under the hood and building tools that do something useful with that knowledge.
+## 🛡️ Featured Projects
+
+### 🔒 Cybersecurity & Forensics
+*   **[emv-protocol-research](https://github.com/obsdnx/emv-protocol-research)** – Analyzing metadata leakage and privacy-preserving protocols in contactless ecosystems.
+*   **[kyc-osint](https://github.com/obsdnx/kyc-osint)** – Automated client background verification and OSINT intelligence platform for financial services.
+*   **[digital-forensics-cw](https://github.com/obsdnx/digital-forensics-cw)** – A MATLAB-based toolbox for image authenticity verification and localized tamper detection (splicing/copy-move).
+*   **[advanced-cybersec-cw](https://github.com/obsdnx/advanced-cybersec-cw)** – Containerized offensive engineering and defensive mitigation (Stack Overflows, MITM, XSS, SQLi).
+
+### ⚙️ Systems & Low-Level Engineering
+*   **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** – A command-line tool using `libpcap` for raw network packet capture and single-threaded anomaly detection.
+*   **[c-port-scanner](https://github.com/obsdnx/c-port-scanner)** – Lightweight TCP port scanner using standard `socket()` and `connect()` system calls.
+*   **[mini-c-compiler](https://github.com/obsdnx/mini-c-compiler)** – Designed and implemented a compiler and formal grammar from scratch.
+
+### 🧠 Applied AI & Sensing
+*   **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** – Joint object detection from mmWave radar data points using CNN and RNN fusion.
+*   **[cf_ai_security_guard](https://github.com/obsdnx/cf_ai_security_guard)** – Cybersecurity AI assistant built on Cloudflare Workers AI and Agents SDK with persistent memory via Durable Objects.
 
 ---
 
-### 🔨 Projects
+## 🛠️ Tech Stack & Tooling
 
-| Project | Description | Stack |
-|---|---|---|
-| [packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System) | libpcap-based packet capture with single-threaded IDS logic for anomaly detection | C |
-| [c-port-scanner](https://github.com/obsdnx/c-port-scanner) | TCP port scanner using raw socket() and connect() syscalls | C |
-| [mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project) | Joint object detection from mmWave radar point clouds using CNN + RNN fusion | Python |
-
----
-
-### 🛠 Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+*   **Languages:** C, C++, Rust, Python, TypeScript, JavaScript, SQL, Prolog, Lua
+*   **Systems & Networking:** Linux, Raw Sockets, `libpcap`, TCP/IP, Network Analysis
+*   **Frameworks & Infrastructure:** Cloudflare Workers, Next.js, Docker, MATLAB
+*   **Tools:** Neovim (Custom Lua Configuration), Git
 
 ---
 
-### Interests
+## 🎯 Focus Areas
 
-**Security** — detection tools, network analysis, attack surfaces  
-**Low-level systems** — kernel interfaces, raw sockets, packet internals  
-**Humanitarian tech** — exploring how security & systems can support social good  
-
-**Learning** — CTFs, TryHackMe, freelance projects
+*   **Security Architecture** — Protocol analysis, network sniffing, defensive mitigation, and threat modeling.
+*   **Low-Level Systems** — Kernel interfaces, hardware-software boundary, and writing optimized logic without external abstractions.
+*   **Humanitarian Tech** — Exploring how secure infrastructure and hardware sensing (e.g., assistive devices, secure comms) can solve real-world crises.
 
 ---
 
-### 📫 Contact
+## 📫 Connect with Me
+
+*   **Learning:** Active in CTFs, hardware exploitation research, and freelance technical projects.
+*   **Contact:** [Your Email Here] | [Your LinkedIn Here]

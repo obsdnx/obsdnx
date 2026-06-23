@@ -1,4 +1,4 @@
-# Hi, I'm Anais 👋
+# Hi! 
 
 ### CS Master's Student · AI Automation SWE Intern · Contactless Payment Security Researcher
 

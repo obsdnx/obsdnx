@@ -1,7 +1,8 @@
-# Hi, I'm obsdnx 👋
+# Hi, I'm Anais 👋
 
-### Systems & Security @  CS Masters
-Low-level systems builder focused on security tooling, network programming, and hardware internals. I prefer skipping high-level abstractions to understand how things work under the hood, building tools from first principles.
+### CS Master's Student · AI Automation SWE Intern · Contactless Payment Security Researcher
+
+Low-level systems builder and security researcher. Currently writing my MSc dissertation on contactless payment protocols — pulling apart how NFC/EMV systems work at the protocol level and where they break. I like understanding systems deeply enough to build and break them.
 
 ---
 
@@ -26,22 +27,23 @@ Low-level systems builder focused on security tooling, network programming, and 
 
 ## 🛠️ Tech Stack & Tooling
 
-*   **Languages:** C, C++, Rust, Python, TypeScript, JavaScript, SQL, Prolog, Lua
-*   **Systems & Networking:** Linux, Raw Sockets, `libpcap`, TCP/IP, Network Analysis
-*   **Frameworks & Infrastructure:** Cloudflare Workers, Next.js, Docker, MATLAB
-*   **Tools:** Neovim (Custom Lua Configuration), Git
+*   **Languages:** C, C++, Python, TypeScript, SQL
+*   **Machine Learning:** TensorFlow, scikit-learn
+*   **Systems & Networking:** Linux, Raw Sockets, libpcap, TCP/IP, HTTPS Servers, NFC/EMV Protocols
+*   **Infrastructure:** Docker, Git, GitHub Actions
+*   **Hardware:** Arduino, 3D Printing (Bambu Studio)
 
 ---
 
 ## 🎯 Focus Areas
 
-*   **Security Architecture** — Protocol analysis, network sniffing, defensive mitigation, and threat modeling.
-*   **Low-Level Systems** — Kernel interfaces, hardware-software boundary, and writing optimized logic without external abstractions.
-*   **Humanitarian Tech** — Exploring how secure infrastructure and hardware sensing (e.g., assistive devices, secure comms) can solve real-world crises.
+*   **Contactless Payment Security** — MSc dissertation on NFC/EMV protocol analysis, privacy leakage, and attack surfaces.
+*   **AI Automation** — Building automated pipelines and tooling as a SWE intern.
+*   **Low-Level Systems** — DSA in C/C++, kernel interfaces, writing tools from first principles.
+*   **Hardware Tinkering** — Arduino projects and 3D printing with Bambu Studio.
 
 ---
 
 ## 📫 Connect with Me
 
-*   **Learning:** Active in CTFs, hardware exploitation research, and freelance technical projects.
-
+*   Active in CTFs, hardware exploitation research, and freelance technical projects.

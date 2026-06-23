@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automation+systems;Tinkering+with+hardware+and+low-level+code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automation+systems;Writing+tutorials+I+wish+I+had" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/aesthetic.png" width="300" alt="aesthetic" />
+  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/aesthetic.png" width="600" alt="aesthetic" />
 </p>
 
 ---
@@ -27,8 +27,11 @@ I'm a **CS Master's student** writing my dissertation on **contactless payment p
 
 Alongside my research, I'm interning as an **AI Automation Software Engineer**, building automated systems and pipelines with Python. I also enjoy getting hands-on with hardware — I use **Arduino** for small electronics projects and **Bambu Studio** for 3D printing.
 
+I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials on things I wish I'd had a guide for — the kind of explanations that don't exist yet when you need them most.
+
 - Currently writing my **MSc dissertation on contactless payment protocol security**
 - Interning as an **AI Automation SWE**, working on Python-based automation and tooling
+- Writing about **systems, security, and hardware** on Substack
 - Interested in **DSA**, **networking internals**, and **applied ML**
 
 <!-- Tech Stack Section -->
@@ -96,6 +99,14 @@ Thank you for stopping by!
 <td align="right">
   <a href="https://github.com/obsdnx">
     <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" />
+  </a>
+</td>
+</tr>
+<tr>
+<td align="left"><b>Read my Substack — tutorials I wish I had</b></td>
+<td align="right">
+  <a href="https://obsdnx.substack.com">
+    <img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" />
   </a>
 </td>
 </tr>

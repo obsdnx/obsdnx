@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hii+:+)+%E2%8B%86%CB%99%E2%9F%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hii+%E2%8B%86%CB%99%E2%9F%A1" />
 </p>
 
 <p align="center">

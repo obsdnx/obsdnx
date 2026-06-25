@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hii+%E2%8B%86%CB%99%E2%9F%A1" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hii />
 </p>
 
 <p align="center">
@@ -29,14 +29,10 @@ Alongside my research, I'm interning as an **AI Automation Software Engineer**, 
 
 I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials on things I wish I'd had a guide for — the kind of explanations that don't exist yet when you need them most.
 
-- Currently writing my **MSc dissertation on contactless payment protocol security**
-- Interning as an **AI Automation SWE**, working on Python-based automation and tooling
-- Writing about **systems, security, and hardware** on Substack
-- Interested in **DSA**, **networking internals**, and **applied ML**
 
 <!-- Tech Stack Section -->
 ---
-### Tech Stack ⋆˙⟡ ⋆.˚
+### Tech Stack 
 
 <h3 align="left">Languages</h3>
 

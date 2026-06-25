@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>CS Master's Student · AI Automation SWE Intern · Contactless Payment Security Researcher</b>
+  <b>CS Master's Student · SWE Intern · Contactless Payment Security Researcher</b>
 </p>
 
 <p align="center">

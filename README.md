@@ -23,12 +23,16 @@
 ---
 ### About Me ˚⟡˖ ࣪
 
-I'm a **CS Master's student** writing my dissertation on **contactless payment protocols** — diving into how NFC/EMV systems work at the protocol level and where they break. I find it fascinating that the tap-to-pay experience billions of people use every day has real, underexplored attack surfaces.
+ **CS Master's student** writing my dissertation on **contactless payment protocols** — diving into how NFC/EMV systems work at the protocol level and where they break. I find it fascinating that the tap-to-pay experience billions of people use every day has real, underexplored attack surfaces. Finding vulnerabilities requires deep understanding of the tech and creativity which I find so exciting. After my dissertation, I started to enjoy getting more hands on with hardware, doing some arduino projects here and there.
 
-Alongside my research, I'm interning as an **AI Automation Software Engineer**, building automated systems and pipelines with Python. I also enjoy getting hands-on with hardware — I use **Arduino** for small electronics projects and **Bambu Studio** for 3D printing.
+I admire the technology that is safe, ethical and used to create net benefit. 
 
-I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials on things I wish I'd had a guide for — the kind of explanations that don't exist yet when you need them most.
+Alongside my research, I'm interning as an **AI Automation Software Engineer**, building automated systems and pipelines with Python.
 
+
+This summer I got into 3D printing as well for some personal projects, I like to use **Bambu Studio** 
+
+I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials for the beginners. 
 
 <!-- Tech Stack Section -->
 ---

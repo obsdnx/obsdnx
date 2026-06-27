@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>Systems Engineering · Machine Learning · Networking · Hardware Tinkering</b>
+  <b> Offensive Security Research · Networking · Machine Learning  </b>
 </p>
 
 <p align="center">

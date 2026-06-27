@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automation+systems;Writing+tutorials+I+wish+I+had" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automations;Writing+tutorials+I+wish+I+had" />
 </p>
 
 <p align="center">

@@ -1,7 +1,7 @@
 <!-- GitHub Profile README · obsdnx -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hi%2C+i'm+obsdnx+%CB%9A%E2%9F%A1%CB%96" alt="obsdnx" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hiii alt="obsdnx" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ---
 
-### About Me ˚⟡˖ ࣪
+### About Me 🌌
 
 CS Master's student writing my dissertation on **contactless payment protocols** — how NFC/EMV systems work at the protocol level and where they break. It still gets me that the tap-to-pay experience billions of people use every day has real, underexplored attack surface. Finding vulnerabilities takes both deep understanding and creativity, which is exactly the part I enjoy.
 
@@ -76,12 +76,6 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
 ---
 
 ### GitHub Stats ⊹ ݁
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=obsdnx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6B6B&icon_color=FF6B6B&text_color=c9c9c9&bg_color=1A0A0A" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&langs_count=8&title_color=FF6B6B&text_color=c9c9c9&bg_color=1A0A0A" alt="top languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9" alt="streak" />
 </p>

@@ -1,7 +1,7 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile README · obsdnx -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=36&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hii />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines=hi%2C+i'm+obsdnx+%CB%9A%E2%9F%A1%CB%96" alt="obsdnx" />
 </p>
 
 <p align="center">
@@ -9,11 +9,13 @@
 </p>
 
 <p align="center">
-  <b> Offensive Security Research · Networking · Machine Learning  </b>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automations+in+Python;Writing+the+tutorials+I+wish+I+had" alt="focus" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=22&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automations;Writing+tutorials+I+wish+I+had" />
+  <a href="https://github.com/obsdnx"><img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" /></a>
+  <a href="https://obsdnx.substack.com"><img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" /></a>
+  <a href="https://obsdnx.pro"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=icloud&logoColor=1A0A0A" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
@@ -21,24 +23,22 @@
 </p>
 
 ---
+
 ### About Me ˚⟡˖ ࣪
 
- **CS Master's student** writing my dissertation on **contactless payment protocols** — diving into how NFC/EMV systems work at the protocol level and where they break. I find it fascinating that the tap-to-pay experience billions of people use every day has real, underexplored attack surfaces. Finding vulnerabilities requires deep understanding of the tech and creativity which I find so exciting. After my dissertation, I started to enjoy getting more hands on with hardware, doing some arduino projects here and there.
+CS Master's student writing my dissertation on **contactless payment protocols** — how NFC/EMV systems work at the protocol level and where they break. It still gets me that the tap-to-pay experience billions of people use every day has real, underexplored attack surface. Finding vulnerabilities takes both deep understanding and creativity, which is exactly the part I enjoy.
 
-I admire the technology that is safe, ethical and used to create net benefit. 
+Alongside the research, I'm interning as an **AI Automation Software Engineer**, building automated systems and pipelines in Python. Lately I've been getting more hands-on with hardware — Arduino projects, and 3D printing in **Bambu Studio** for personal builds.
 
-Alongside my research, I'm interning as an **AI Automation Software Engineer**, building automated systems and pipelines with Python.
+I care about technology that's safe, ethical, and built to create real net benefit.
 
+I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials for beginners — the ones I wish I'd had.
 
-This summer I got into 3D printing as well for some personal projects, I like to use **Bambu Studio** 
-
-I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials for the beginners. 
-
-<!-- Tech Stack Section -->
 ---
-### Tech Stack 
 
-<h3 align="left">Languages</h3>
+### Tech Stack 🛠
+
+**Languages**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=1A0A0A" alt="Python" />
@@ -48,23 +48,23 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
   <img src="https://img.shields.io/badge/SQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=1A0A0A" alt="SQL" />
 </p>
 
-<h3 align="left">Machine Learning</h3>
+**Machine Learning**
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=1A0A0A" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=1A0A0A" alt="scikit-learn" />
 </p>
 
-<h3 align="left">Networking & Systems</h3>
+**Networking & Systems**
 
 <p align="left">
   <img src="https://img.shields.io/badge/TCP%2FIP-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=1A0A0A" alt="TCP/IP" />
   <img src="https://img.shields.io/badge/HTTPS%20Servers-FF6B6B?style=for-the-badge&logo=nginx&logoColor=1A0A0A" alt="HTTPS Servers" />
-  <img src="https://img.shields.io/badge/NFC%2FEMV%20Protocols-FF6B6B?style=for-the-badge&logo=nfc&logoColor=1A0A0A" alt="NFC/EMV Protocols" />
+  <img src="https://img.shields.io/badge/NFC%2FEMV-FF6B6B?style=for-the-badge&logo=contactlesspayment&logoColor=1A0A0A" alt="NFC/EMV" />
   <img src="https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=1A0A0A" alt="Linux" />
 </p>
 
-<h3 align="left">Hardware & Tools</h3>
+**Hardware & Tools**
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arduino-FF6B6B?style=for-the-badge&logo=arduino&logoColor=1A0A0A" alt="Arduino" />
@@ -73,41 +73,41 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
   <img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=1A0A0A" alt="Git" />
 </p>
 
-<!-- Featured Projects Section -->
 ---
+
+### GitHub Stats ⊹ ݁
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=obsdnx&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=FF6B6B&icon_color=FF6B6B&text_color=c9c9c9&bg_color=1A0A0A" alt="stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&langs_count=8&title_color=FF6B6B&text_color=c9c9c9&bg_color=1A0A0A" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9" alt="streak" />
+</p>
+
+---
+
 ### Featured Projects ⋆✴︎˚｡⋆
 
 | Project | Description | Tech |
 |---|---|---|
-| **[emv-protocol-research](https://github.com/obsdnx/emv-protocol-research)** | Analyzing metadata leakage and privacy-preserving protocols in contactless payment ecosystems. | C, NFC/EMV, Protocol Analysis |
-| **[kyc-osint](https://github.com/obsdnx/kyc-osint)** | Automated client background verification and OSINT intelligence platform for financial services. | Python, NLP, Web Scraping |
-| **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection using `libpcap`. | C, libpcap, TCP/IP |
-| **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** | Joint object detection from mmWave radar data using CNN and RNN fusion. | Python, TensorFlow |
-| **[cf_ai_security_guard](https://github.com/obsdnx/cf_ai_security_guard)** | Cybersecurity AI assistant on Cloudflare Workers AI with persistent memory. | TypeScript, Cloudflare |
+| **[emv-protocol-research](https://github.com/obsdnx/emv-protocol-research)** | Metadata leakage and privacy-preserving protocols in contactless payment ecosystems. | C · NFC/EMV · Protocol Analysis |
+| **[kyc-osint](https://github.com/obsdnx/kyc-osint)** | Automated client background verification and OSINT platform for financial services. | Python · NLP · Web Scraping |
+| **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
+| **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
+| **[cf_ai_security_guard](https://github.com/obsdnx/cf_ai_security_guard)** | Cybersecurity AI assistant on Cloudflare Workers AI with persistent memory. | TypeScript · Cloudflare |
 
-<!-- Connect Section -->
 ---
+
 ### Let's Connect ⟡ ݁ . ⊹ ₊ ݁.
 
-I'm always happy to connect with engineers, researchers, security professionals, and anyone working on interesting systems or hardware problems.
+Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.
 
-Thank you for stopping by!
+<p align="left">
+  <a href="https://github.com/obsdnx"><img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" /></a>
+  <a href="https://obsdnx.substack.com"><img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" /></a>
+  <a href="https://obsdnx.pro"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=icloud&logoColor=1A0A0A" alt="Portfolio" /></a>
+</p>
 
-<table>
-<tr>
-<td align="left"><b>Find me on GitHub</b></td>
-<td align="right">
-  <a href="https://github.com/obsdnx">
-    <img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" />
-  </a>
-</td>
-</tr>
-<tr>
-<td align="left"><b>Read my Substack — tutorials I wish I had</b></td>
-<td align="right">
-  <a href="https://obsdnx.substack.com">
-    <img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" />
-  </a>
-</td>
-</tr>
-</table>
+<p align="center"><sub>Thanks for stopping by ⟡</sub></p>

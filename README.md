@@ -82,7 +82,7 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
 
 ---
 
-### Featured Projects ⋆✴︎˚｡⋆
+### Featured Projects ⊹ ݁
 
 | Project | Description | Tech |
 |---|---|---|
@@ -94,7 +94,7 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
 
 ---
 
-### Let's Connect ⟡ ݁ . ⊹ ₊ ݁.
+### Let's Connect ⟡ 
 
 Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.
 

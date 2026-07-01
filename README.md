@@ -1,11 +1,8 @@
 <!-- GitHub Profile README · obsdnx -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=850&lines="Hi" alt="obsdnx" />
-</p>
 
 <p align="center">
-  <b>CS Master's Student · SWE Intern · Contactless Payment Security Researcher</b>
+  <b>CS Student · SWE Intern · Contactless Payment Security Researcher</b>
 </p>
 
 <p align="center">

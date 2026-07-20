@@ -23,7 +23,7 @@
 
 ### About Me 🌌
 
-CS Master's student writing my dissertation on **contactless payment protocols** — how NFC/EMV systems work at the protocol level and where they break. Turns out the tap-to-pay experience billions of people use every day has some interesting underexplored attack surface. Finding vulnerabilities takes both deep understanding and creativity which I find fun
+CS student writing my dissertation on **contactless payment protocols** — how NFC/EMV systems work at the protocol level and where they break. Turns out the tap-to-pay experience billions of people use every day has some interesting underexplored attack surface. Finding vulnerabilities takes both deep understanding and creativity which I find fun
 
 Alongside the research, I'm interning in ai automation, building automated systems and pipelines in python/js. Theory is cool but sometimes the simplest applications can be the most useful to businesses. I'm working on automaing different processes using Langchain/Lang Graphs, multi-agent n8n flows, trivial scraping scripts. 
 

@@ -36,7 +36,7 @@ Alongside the research, I'm interning in AI automation : building automated syst
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **Languages**
 

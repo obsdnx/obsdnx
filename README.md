@@ -25,13 +25,6 @@
 
 CS student writing my dissertation on **contactless payment protocols** (EMV). Highly into OS, networks, and IoT.
 
-**Highlighted Projects**
-- Writing schematics to print my own PCB USB in KiCad
-- Hand mimic project with OpenCV
-- Wireless motion sensing using mmWave sensors
-- Packet sniffer
-- Homelab — Fedora OS
-
 > *"If you don't understand how a system works from the ground up, you can only ever be its user."*
 
 **On the Bookshelf:**
@@ -98,11 +91,11 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 | Project | Description | Tech |
 |---|---|---|
-| **[emv-protocol-research](https://github.com/obsdnx/emv-protocol-research)** | Metadata leakage and privacy-preserving protocols in contactless payment ecosystems. | C · NFC/EMV · Protocol Analysis |
-| **[kyc-osint](https://github.com/obsdnx/kyc-osint)** | Automated client background verification and OSINT platform for financial services. | Python · NLP · Web Scraping |
-| **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
+| **PCB USB** | Writing schematics and printing a custom PCB USB in KiCad. | KiCad · PCB Design |
+| **[hand-mimic](https://github.com/obsdnx)** | Real-time hand tracking and motion mimic using computer vision. | Python · OpenCV |
 | **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
-| **[cf_ai_security_guard](https://github.com/obsdnx/cf_ai_security_guard)** | Cybersecurity AI assistant on Cloudflare Workers AI with persistent memory. | TypeScript · Cloudflare |
+| **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
+| **Homelab** | Self-hosted lab running Fedora OS for networking and systems experimentation. | Fedora · Linux |
 
 ---
 

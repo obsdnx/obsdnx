@@ -66,21 +66,6 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 ---
 
-### GitHub Stats ⊹ ݁
-
-<table width="100%">
-<tr>
-<td width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9&width=500" width="100%" alt="streak" />
-</td>
-<td width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=FF6B6B&text_color=c9c9c9&icon_color=FF6B6B" width="100%" alt="top languages" />
-</td>
-</tr>
-</table>
-
----
-
 ### Let's Connect ⟡ 
 
 Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.

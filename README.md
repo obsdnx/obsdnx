@@ -23,15 +23,24 @@
 
 ### About Me 🌌
 
-CS student writing my dissertation on **contactless payment protocols** — how NFC/EMV systems work at the protocol level and where they break. Turns out the tap-to-pay experience billions of people use every day has some interesting underexplored attack surface. Finding vulnerabilities takes both deep understanding and creativity which I find fun
+CS student writing my dissertation on **contactless payment protocols** (EMV). Highly into OS, networks, and IoT.
 
-Alongside the research, I'm interning in ai automation, building automated systems and pipelines in python/js. Theory is cool but sometimes the simplest applications can be the most useful to businesses. I'm working on automaing different processes using Langchain/Lang Graphs, multi-agent n8n flows, trivial scraping scripts. 
+**Highlighted Projects**
+- Writing schematics to print my own PCB USB in KiCad
+- Hand mimic project with OpenCV
+- Wireless motion sensing using mmWave sensors
+- Packet sniffer
+- Homelab — Fedora OS
 
-Lately I've been getting more hands-on with hardware: Arduino projects, and 3D printing in **Bambu Studio** for personal builds.
+> *"If you don't understand how a system works from the ground up, you can only ever be its user."*
 
-I care about tech that's safe, ethical, and built to create real net benefit.
+**On the Bookshelf:**
+1. Designing Data-Intensive Applications
+2. Hacking: The Art of Exploitation
 
-I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tutorials 
+Alongside the research, I'm interning in AI automation — building automated systems and pipelines in Python/JS. Theory is cool but sometimes the simplest applications can be the most useful to businesses. Working on automating different processes using LangChain/LangGraph, multi-agent n8n flows, and scraping scripts.
+
+I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tutorials I wish I had.
 
 ---
 
@@ -45,6 +54,7 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
   <img src="https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=1A0A0A" alt="C++" />
   <img src="https://img.shields.io/badge/TypeScript-FF6B6B?style=for-the-badge&logo=typescript&logoColor=1A0A0A" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=1A0A0A" alt="SQL" />
+  <img src="https://img.shields.io/badge/Jupyter-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=1A0A0A" alt="Jupyter" />
 </p>
 
 **Machine Learning**
@@ -52,6 +62,7 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=1A0A0A" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=1A0A0A" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-FF6B6B?style=for-the-badge&logo=opencv&logoColor=1A0A0A" alt="OpenCV" />
 </p>
 
 **Networking & Systems**
@@ -61,6 +72,8 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write small tu
   <img src="https://img.shields.io/badge/HTTPS%20Servers-FF6B6B?style=for-the-badge&logo=nginx&logoColor=1A0A0A" alt="HTTPS Servers" />
   <img src="https://img.shields.io/badge/NFC%2FEMV-FF6B6B?style=for-the-badge&logo=contactlesspayment&logoColor=1A0A0A" alt="NFC/EMV" />
   <img src="https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=1A0A0A" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-FF6B6B?style=for-the-badge&logo=kalilinux&logoColor=1A0A0A" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Fedora-FF6B6B?style=for-the-badge&logo=fedora&logoColor=1A0A0A" alt="Fedora" />
 </p>
 
 **Hardware & Tools**

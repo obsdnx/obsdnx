@@ -43,22 +43,22 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" width="100%" />
 
 **Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" width="100%" />
 
 </td>
 <td valign="top" width="50%">
 
 **Networking & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" width="100%" />
 
 **Hardware & Tools**
 
-<img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" width="100%" />
 
 </td>
 </tr>

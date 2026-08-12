@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/aesthetic.png" width="600" alt="aesthetic" />
+  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/aesthetic.png" width="380" alt="aesthetic" />
 </p>
 
 ---

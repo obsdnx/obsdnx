@@ -35,30 +35,32 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 ### Tech Stack 🛠
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" />
 
 **Machine Learning**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
+
+</td>
+<td valign="top" width="50%">
 
 **Networking & Systems**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" />
- 
-</p>
+<img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" />
 
 **Hardware & Tools**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" />
-</p>
+<img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" />
+
+</td>
+</tr>
+</table>
 
 ---
 

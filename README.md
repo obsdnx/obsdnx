@@ -69,11 +69,3 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 ### Let's Connect ⟡ 
 
 Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.
-
-<p align="left">
-  <a href="https://github.com/obsdnx"><img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" /></a>
-  <a href="https://obsdnx.substack.com"><img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" /></a>
-  <a href="https://obsdnx.pro"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=icloud&logoColor=1A0A0A" alt="Portfolio" /></a>
-</p>
-
-<p align="center"><sub>Thanks for stopping by ⟡</sub></p>

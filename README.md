@@ -45,14 +45,13 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
-  <img src="https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=1A0A0A" alt="scikit-learn" />
 </p>
 
 **Networking & Systems**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" />
-  <img src="https://img.shields.io/badge/NFC%2FEMV-FF6B6B?style=for-the-badge&logo=contactlesspayment&logoColor=1A0A0A" alt="NFC/EMV" />
+ 
 </p>
 
 **Hardware & Tools**

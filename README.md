@@ -40,22 +40,22 @@ Alongside the research, I'm interning in AI automation : building automated syst
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" width="210" />
 
 **Machine Learning**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" width="80" />
 
 </td>
 <td valign="top" width="50%">
 
 **Networking & Systems**
 
-<img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" width="120" />
 
 **Hardware & Tools**
 
-<img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" width="100%" />
+<img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" width="120" />
 
 </td>
 </tr>

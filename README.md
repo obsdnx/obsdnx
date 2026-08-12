@@ -21,6 +21,8 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 
 ---
 
+<img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+
 ### Featured Projects ⊹ ݁
 
 | Project | Description | Tech |
@@ -30,8 +32,6 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 | **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
 | **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
 | **Homelab** | Self-hosted lab running Fedora OS for networking and systems experimentation. | Fedora · Linux |
-
-<img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
 ---
 

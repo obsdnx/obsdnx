@@ -1,4 +1,9 @@
+<!-- GitHub Profile README · obsdnx -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="820" alt="banner" />
+</p>
 
+---
 
 ### About Me 🌌
 

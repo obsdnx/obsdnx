@@ -1,6 +1,6 @@
 <!-- GitHub Profile README · obsdnx -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="820" alt="banner" />
+  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="100%" alt="banner" />
 </p>
 
 ---
@@ -31,11 +31,13 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 | **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
 | **Homelab** | Self-hosted lab running Fedora OS for networking and systems experimentation. | Fedora · Linux |
 
+<img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
+
 ---
 
 ### Tech Stack 🛠
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="50%">
 
@@ -65,14 +67,17 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 ---
 
 ### GitHub Stats ⊹ ݁
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=FF6B6B&text_color=c9c9c9&icon_color=FF6B6B" alt="top languages" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake.gif" alt="contribution snake" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9&width=500" width="100%" alt="streak" />
+</td>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=FF6B6B&text_color=c9c9c9&icon_color=FF6B6B" width="100%" alt="top languages" />
+</td>
+</tr>
+</table>
 
 ---
 

@@ -1,20 +1,5 @@
 <!-- GitHub Profile README · obsdnx -->
 
-
-<p align="center">
-  <b>CS Student · SWE Intern · Contactless Payment Security Researcher</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&pause=1200&color=FF6B6B&center=true&vCenter=true&width=850&lines=Researching+contactless+payment+protocol+security;Building+AI+automations+in+Python;Writing+the+tutorials+I+wish+I+had" alt="focus" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/obsdnx"><img src="https://img.shields.io/badge/GitHub-FF6B6B?style=for-the-badge&logo=github&logoColor=1A0A0A" alt="GitHub" /></a>
-  <a href="https://obsdnx.substack.com"><img src="https://img.shields.io/badge/Substack-FF6B6B?style=for-the-badge&logo=substack&logoColor=1A0A0A" alt="Substack" /></a>
-  <a href="https://obsdnx.pro"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=icloud&logoColor=1A0A0A" alt="Portfolio" /></a>
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="820" alt="banner" />
 </p>

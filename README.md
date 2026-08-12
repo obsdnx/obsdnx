@@ -1,18 +1,4 @@
-<!-- GitHub Profile README · obsdnx -->
 
-<p align="center"><pre>
-         __             __          
-  ____  / /_  _________/ /___  _  __
- / __ \/ __ \/ ___/ __  / __ \| |/_/
-/ /_/ / /_/ (__  ) /_/ / / / />  <  
-\____/_.___/____/\__,_/_/ /_/_/|_|  
-</pre></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="820" alt="banner" />
-</p>
-
----
 
 ### About Me 🌌
 

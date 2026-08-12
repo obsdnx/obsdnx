@@ -17,9 +17,6 @@ CS student writing my dissertation on **contactless payment protocols** (EMV). H
 
 Alongside the research, I'm interning in AI automation — building automated systems and pipelines in Python/JS. Theory is cool but sometimes the simplest applications can be the most useful to businesses. Working on automating different processes using LangChain/LangGraph, multi-agent n8n flows, and scraping scripts.
 
-I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tutorials I wish I had.
-
----
 
 <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 

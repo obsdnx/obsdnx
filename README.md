@@ -9,7 +9,7 @@
 
 CS student writing my dissertation on **contactless payment protocols** (EMV). Highly into OS, networks, and IoT.
 
-> *"If you don't understand how a system works from the ground up, you can only ever be its user."*
+> *"If you don't understand how a system works from the ground up, you can only ever be its user. - some youtuber"* 
 
 **On the Bookshelf:**
 1. Designing Data-Intensive Applications

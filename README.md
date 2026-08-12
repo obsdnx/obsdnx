@@ -47,40 +47,27 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 **Languages**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FF6B6B?style=for-the-badge&logo=python&logoColor=1A0A0A" alt="Python" />
-  <img src="https://img.shields.io/badge/C-FF6B6B?style=for-the-badge&logo=c&logoColor=1A0A0A" alt="C" />
-  <img src="https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=1A0A0A" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-FF6B6B?style=for-the-badge&logo=typescript&logoColor=1A0A0A" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/SQL-FF6B6B?style=for-the-badge&logo=postgresql&logoColor=1A0A0A" alt="SQL" />
-  <img src="https://img.shields.io/badge/Jupyter-FF6B6B?style=for-the-badge&logo=jupyter&logoColor=1A0A0A" alt="Jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,ts,postgres,jupyter&theme=dark" />
 </p>
 
 **Machine Learning**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=1A0A0A" alt="TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
   <img src="https://img.shields.io/badge/scikit--learn-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=1A0A0A" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/OpenCV-FF6B6B?style=for-the-badge&logo=opencv&logoColor=1A0A0A" alt="OpenCV" />
 </p>
 
 **Networking & Systems**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TCP%2FIP-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=1A0A0A" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/HTTPS%20Servers-FF6B6B?style=for-the-badge&logo=nginx&logoColor=1A0A0A" alt="HTTPS Servers" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,fedora&theme=dark" />
   <img src="https://img.shields.io/badge/NFC%2FEMV-FF6B6B?style=for-the-badge&logo=contactlesspayment&logoColor=1A0A0A" alt="NFC/EMV" />
-  <img src="https://img.shields.io/badge/Linux-FF6B6B?style=for-the-badge&logo=linux&logoColor=1A0A0A" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-FF6B6B?style=for-the-badge&logo=kalilinux&logoColor=1A0A0A" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Fedora-FF6B6B?style=for-the-badge&logo=fedora&logoColor=1A0A0A" alt="Fedora" />
 </p>
 
 **Hardware & Tools**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Arduino-FF6B6B?style=for-the-badge&logo=arduino&logoColor=1A0A0A" alt="Arduino" />
-  <img src="https://img.shields.io/badge/3D%20Printing-FF6B6B?style=for-the-badge&logo=printables&logoColor=1A0A0A" alt="3D Printing" />
-  <img src="https://img.shields.io/badge/Docker-FF6B6B?style=for-the-badge&logo=docker&logoColor=1A0A0A" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-FF6B6B?style=for-the-badge&logo=git&logoColor=1A0A0A" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=arduino,docker,git&theme=dark" />
 </p>
 
 ---
@@ -88,6 +75,7 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 ### GitHub Stats ⊹ ݁
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obsdnx&layout=compact&hide_border=true&bg_color=1A0A0A&title_color=FF6B6B&text_color=c9c9c9&icon_color=FF6B6B" alt="top languages" />
 </p>
 
 <p align="center">

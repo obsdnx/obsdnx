@@ -1,5 +1,13 @@
 <!-- GitHub Profile README · obsdnx -->
 
+<p align="center"><pre>
+         __             __          
+  ____  / /_  _________/ /___  _  __
+ / __ \/ __ \/ ___/ __  / __ \| |/_/
+/ /_/ / /_/ (__  ) /_/ / / / />  <  
+\____/_.___/____/\__,_/_/ /_/_/|_|  
+</pre></p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/main/banner.png" width="820" alt="banner" />
 </p>
@@ -80,6 +88,10 @@ I also keep a **[Substack](https://obsdnx.substack.com)** where I write the tuto
 ### GitHub Stats ⊹ ݁
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=obsdnx&hide_border=true&background=1A0A0A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B&sideLabels=c9c9c9&dates=888888&currStreakNum=c9c9c9&sideNums=c9c9c9" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake.gif" alt="contribution snake" />
 </p>
 
 ---

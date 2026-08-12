@@ -15,7 +15,7 @@ CS student writing my dissertation on **contactless payment protocols** (EMV). H
 1. Designing Data-Intensive Applications
 2. Hacking: The Art of Exploitation
 
-Alongside the research, I'm interning in AI automation — building automated systems and pipelines in Python/JS. Theory is cool but sometimes the simplest applications can be the most useful to businesses. Working on automating different processes using LangChain/LangGraph, multi-agent n8n flows, and scraping scripts.
+Alongside the research, I'm interning in AI automation : building automated systems and pipelines in Python/JS. Sometimes the simplest applications can be the most useful to businesses. Working on automating different processes using LangChain/LangGraph, multi-agent n8n flows, and scraping scripts.
 
 
 <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />

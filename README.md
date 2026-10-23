@@ -7,7 +7,7 @@
 
 ### About Me 🌌
 
-CS student writing my dissertation on **contactless payment protocols** (EMV). Highly into OS, networks, and IoT.
+CS student writing my project on **contactless payment protocols** (EMV). Interested into OS, networks, and IoT.
 
 > *"If you don't understand how a system works from the ground up, you can only ever be its user. - gazi (youtuber) "* 
 

@@ -38,7 +38,7 @@ On a journey to deeply understand computers from the ground up, read machine cod
 | **[girls-hack-hard-2026](https://github.com/obsdnx/girls-hack-hard-2026)** | Airport travel assistant bot built with an ESP-32. | Python · ESP-32 |
 | **[stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser)** | Visualise how a program compiles — stack layout mapped to C source. | Python · Assembly |
 | **[mmwave-wireless-sensing](https://github.com/obsdnx/mmwave-wireless-sensing)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
-| **High Performance Computing** | Systems-level performance work — profiling, optimisation, low-latency compute. | C · C++ |
+| **[high-performance-comp-cw](https://github.com/obsdnx/high-performance-comp-cw)** | Systems-level performance work — profiling, optimisation, low-latency compute. | C · C++ |
 
 ---
 

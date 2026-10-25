@@ -11,7 +11,9 @@ MSc student in London, Completed BSc in CS: third year project on computer visio
 
 On a journey to deeply understand computers from the ground up, read machine code, write C and C++, contribute to open source, and build dev tools like [stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser). Interned at a few startups (confidential).
 
-Excited about IoT — built a [handtrack-prosthetic](https://github.com/obsdnx/handtrack-prosthetic) mimic project.
+**Experience:** AI automation intern at 2 startups — built LangGraph agents, n8n pipelines and scrapers in Python/JS.
+
+📍 Looking for: 2027 internships in systems / embedded / security.
 
 > *"If you don't understand how a system works from the ground up, you can only ever be its user. — gazi (youtuber)"*
 
@@ -19,9 +21,10 @@ Excited about IoT — built a [handtrack-prosthetic](https://github.com/obsdnx/h
 1. Designing Data-Intensive Applications
 2. Hacking: The Art of Exploitation
 
-**Hackathons**
-- [Girls Hack Hard 2026](https://github.com/obsdnx/girls-hack-hard-2026) — airport travel assistant bot with ESP-32
-- [Lattice](https://remove-barriers.vercel.app/) — accessibility hackathon project
+### Hackathons 🏆
+
+- **[Girls Hack Hard 2026](https://github.com/obsdnx/girls-hack-hard-2026)** — airport travel assistant bot on ESP-32
+- **[Lattice](https://remove-barriers.vercel.app/)** — Oxford Hack accessibility project
 
 
 <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
@@ -34,6 +37,8 @@ Excited about IoT — built a [handtrack-prosthetic](https://github.com/obsdnx/h
 | **[open-cv-gesture-control](https://github.com/obsdnx/open-cv-gesture-control)** | Mouse control via OpenCV gesture recognition. | Python · OpenCV |
 | **[girls-hack-hard-2026](https://github.com/obsdnx/girls-hack-hard-2026)** | Airport travel assistant bot built with an ESP-32. | Python · ESP-32 |
 | **[stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser)** | Visualise how a program compiles — stack layout mapped to C source. | Python · Assembly |
+| **[mmwave-wireless-sensing](https://github.com/obsdnx/mmwave-wireless-sensing)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
+| **High Performance Computing** | Systems-level performance work — profiling, optimisation, low-latency compute. | C · C++ |
 
 ---
 
@@ -76,3 +81,8 @@ Past projects: **Arabictokids** · **Uncooked** · **Wahed**
 
 Discord: `lasaulire` · systemsobsidian@gmail.com
 
+---
+
+### Let's Connect ⟡
+
+Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.

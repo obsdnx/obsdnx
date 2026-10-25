@@ -24,11 +24,10 @@ Alongside the research, I'm interning in AI automation : building automated syst
 
 | Project | Description | Tech |
 |---|---|---|
-| **PCB USB** | Writing schematics and printing a custom PCB USB in KiCad. | KiCad · PCB Design |
-| **[hand-mimic](https://github.com/obsdnx)** | Real-time hand tracking and motion mimic using computer vision. | Python · OpenCV |
-| **[mmWave-Sensor-Project](https://github.com/obsdnx/mmWave-Sensor-Project)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
-| **[packet-sniffer-ids](https://github.com/obsdnx/A-Basic-Packet-Sniffer-and-Intrusion-Detection-System)** | Raw network packet capture and anomaly detection with `libpcap`. | C · libpcap · TCP/IP |
-| **Homelab** | Self-hosted lab running Fedora OS for networking and systems experimentation. | Fedora · Linux |
+| **[mini-c-compiler](https://github.com/obsdnx/mini-c-compiler)** | Designed a compiler and grammar from scratch. | C++ |
+| **[open-cv-gesture-control](https://github.com/obsdnx/open-cv-gesture-control)** | Mouse control via OpenCV gesture recognition. | Python · OpenCV |
+| **[girls-hack-hard-2026](https://github.com/obsdnx/girls-hack-hard-2026)** | Airport travel assistant bot built with an ESP-32. | Python · ESP-32 |
+| **[stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser)** | Visualise how a program compiles — stack layout mapped to C source. | Python · Assembly |
 
 ---
 

@@ -7,9 +7,9 @@
 
 ### About Me 🌌
 
-MSc CS student. Undergrad dissertation on computer vision and CNNs — [arabic-handwriting](https://github.com/obsdnx/arabic-handwriting).
+MSc student in London, Completed BSc in CS: third year project on computer vision and CNNs (https://github.com/obsdnx/arabic-handwriting).
 
-On a journey to deeply understand computers from the ground up. I read machine code, write C and C++, contribute to open source, and build dev tools like [stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser). Interned at a few startups (confidential).
+On a journey to deeply understand computers from the ground up, read machine code, write C and C++, contribute to open source, and build dev tools like [stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser). Interned at a few startups (confidential).
 
 Excited about IoT — built a [handtrack-prosthetic](https://github.com/obsdnx/handtrack-prosthetic) mimic project.
 
@@ -70,14 +70,9 @@ Excited about IoT — built a [handtrack-prosthetic](https://github.com/obsdnx/h
 
 ### Businesses & Charities 🤝
 
-If you're a startup, business, or charity and need help with **automation, database design, internal tooling, or website design** — feel free to reach out.
+If you're a startup, business, or charity and need help with **automation, database design, internal tooling, or website design** feel free to reach out!
 
 Past projects: **Arabictokids** · **Uncooked** · **Wahed**
 
 Discord: `lasaulire` · systemsobsidian@gmail.com
 
----
-
-### Let's Connect ⟡
-
-Always happy to connect with engineers, researchers, security folk, and anyone working on interesting systems or hardware problems.

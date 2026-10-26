@@ -30,15 +30,15 @@ On a journey to deeply understand computers from the ground up, read machine cod
 <img src="https://raw.githubusercontent.com/obsdnx/obsdnx/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
 ### Featured Projects ⊹ ݁
-
-| Project | Description | Tech |
+| Project | What it shows | Tech |
 |---|---|---|
-| **[mini-c-compiler](https://github.com/obsdnx/mini-c-compiler)** | Designed a compiler and grammar from scratch. | C++ |
-| **[open-cv-gesture-control](https://github.com/obsdnx/open-cv-gesture-control)** | Mouse control via OpenCV gesture recognition. | Python · OpenCV |
-| **[girls-hack-hard-2026](https://github.com/obsdnx/girls-hack-hard-2026)** | Airport travel assistant bot built with an ESP-32. | Python · ESP-32 |
-| **[stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser)** | Visualise how a program compiles — stack layout mapped to C source. | Python · Assembly |
-| **[mmwave-wireless-sensing](https://github.com/obsdnx/mmwave-wireless-sensing)** | Joint object detection from mmWave radar via CNN + RNN fusion. | Python · TensorFlow |
-| **[high-performance-comp-cw](https://github.com/obsdnx/high-performance-comp-cw)** | Systems-level performance work — profiling, optimisation, low-latency compute. | C · C++ |
+| [**mini-c-compiler**](https://github.com/obsdnx/mini-c-compiler) | Compiler with LLVM IR + hand-written AArch64 backend. 106 tests, CI, matches LLVM -O2 on one benchmark. | C++ · LLVM · AArch64 |
+| [**open-cv-gesture-control**](https://github.com/obsdnx/open-cv-gesture-control) | Control the Mac cursor with hand gestures. Python prototype rewritten in C++ for lower latency. | C++17 · OpenCV DNN · macOS |
+| [**high-performance-comp-cw**](https://github.com/obsdnx/high-performance-comp-cw) | OpenMP CFD solver: 4.79× speedup on 8 threads, bit-identical to serial. | C · OpenMP |
+| [**arabic-handwriting-ocr**](https://github.com/obsdnx/arabic-handwriting-ocr) | BSc dissertation: lightweight ResNet-13 + SE attention, 93.2% accuracy. | Python · TensorFlow |
+| [**mmwave-wireless-sensing**](https://github.com/obsdnx/mmwave-wireless-sensing) | 3D human pose estimation from mmWave radar, CNN vs CNN-LSTM comparison. | Python · TensorFlow |
+| [**girls-hack-hard-2026**](https://github.com/obsdnx/girls-hack-hard-2026) | Boarding Bot: autonomous gate-guide robot with YOLO + ESP32. | Python · ESP32 · YOLO |
+| [**stackframe-visualiser**](https://github.com/obsdnx/stackframe-visualiser) | Maps compiled assembly and stack layout back to C source. | Python · Assembly |
 
 ---
 

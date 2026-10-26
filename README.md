@@ -15,7 +15,7 @@ On a journey to deeply understand computers from the ground up, read machine cod
 
 📍 Looking for: 2027 internships in systems / embedded / security.
 
-> *"If you don't understand how a system works from the ground up, you can only ever be its user. — gazi (youtuber)"*
+> *"If you don't understand how a system works from the ground up, you can only ever be its user.*
 
 **On the Bookshelf:**
 1. Designing Data-Intensive Applications

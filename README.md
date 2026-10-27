@@ -9,7 +9,7 @@
 
 MSc student in London, Completed BSc in CS: third year project on computer vision and CNNs https://github.com/obsdnx/arabic-handwriting-ocr
 
-On a journey to deeply understand computers from the ground up, read machine code, write C and C++, contribute to open source, and build dev tools like [stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser). 
+Contributing to open source, and build dev tools like [stackframe-visualiser](https://github.com/obsdnx/stackframe-visuliaser). 
 
 **Experience:** AI automation intern at 2 startups: built LangGraph agents, n8n pipelines and scrapers in Python/JS.
 
